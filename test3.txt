@@ -1,0 +1,6 @@
+hello "byye" + 23
+
+?/
+
+
+"This file should be invalid"
